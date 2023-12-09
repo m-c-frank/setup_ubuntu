@@ -14,3 +14,4 @@ rm -r ./squashfs-root
 PATH_NVIM_CONFIG="$HOME/.config/nvim"
 [ ! -d $PATH_NVIM_CONFIG ] && git clone https://github.com/m-c-frank/config.nvim $PATH_NVIM_CONFIG
 
+sudo apt install xclip gcc
