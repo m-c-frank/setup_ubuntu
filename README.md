@@ -13,3 +13,20 @@
 	3. themes
 	4. github login
 	5. [theme](https://www.howtogeek.com/798929/brave-forced-dark-mode/)
+
+## brave dark mode
+
+`brave://flags`
+
+Search: `Dark`
+
+web contents: `CIELAB`
+
+then settings
+
+appearance
+
+theme link
+
+just black
+
